@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Hero() {
   return (
-    <section className="relative min-h-screen overflow-hidden pt-24 px-4 sm:px-8 pb-16" 
+    <section id="home" className="relative min-h-screen overflow-hidden pt-24 px-4 sm:px-8 pb-16" 
       style={{
         background: 'linear-gradient(180deg, #0d5a5a 0%, #0a4040 100%)'
       }}>

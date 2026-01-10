@@ -9,11 +9,11 @@ export default function Navbar() {
 
   const navLinks = [
     { name: "হোম", href: "/" },
-    { name: "পরিচিতি", href: "/about" },
-    { name: "ইস্তেহার", href: "/manifesto" },
-    { name: "সংবাদ", href: "/news" },
-    { name: "অনুষ্ঠান", href: "/events" },
-    { name: "যোগাযোগ", href: "/contact" },
+    { name: "পরিচিতি", href: "#about" },
+    { name: "ইস্তেহার", href: "#manifesto" },
+    { name: "সংবাদ", href: "#news" },
+    { name: "অনুষ্ঠান", href: "#events" },
+    { name: "যোগাযোগ", href: "#contact" },
   ];
 
   return (

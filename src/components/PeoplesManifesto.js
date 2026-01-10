@@ -40,6 +40,7 @@ export default function PeoplesManifesto() {
 
   return (
     <section 
+      id="manifesto"
       className="relative py-20 px-4 sm:px-8 overflow-hidden"
       style={{
         background: 'linear-gradient(135deg, #0d5a5a 0%, #0a4545 100%)',

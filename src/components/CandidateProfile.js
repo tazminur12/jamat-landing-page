@@ -10,7 +10,7 @@ export default function CandidateProfile() {
   ];
 
   return (
-    <section className="py-16 px-4 sm:px-8 bg-gray-50">
+    <section id="about" className="py-16 px-4 sm:px-8 bg-gray-50">
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-center">
           
