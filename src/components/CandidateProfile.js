@@ -27,7 +27,7 @@ export default function CandidateProfile() {
               <div className="relative">
                 <Image
                   src="/candidate/about-candidate.jpg"
-                  alt="শেখ মনজুরুল হক রাহাদ"
+                  alt="অধ্যক্ষ মাওলানা শাহাদাতুজ্জামান"
                   width={500}
                   height={600}
                   className="w-full h-auto object-contain"
@@ -81,7 +81,7 @@ export default function CandidateProfile() {
               
               <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black mb-2"
                 style={{ color: '#0d5a5a' }}>
-                শেখ মনজুরুল হক রাহাদ
+                অধ্যক্ষ মাওলানা শাহাদাতুজ্জামান
               </h2>
               <h3 className="text-2xl sm:text-3xl lg:text-4xl font-black"
                 style={{ color: '#0d5a5a' }}>
@@ -91,7 +91,7 @@ export default function CandidateProfile() {
 
             {/* Introduction Paragraph */}
             <p className="text-gray-700 text-base sm:text-lg leading-relaxed">
-              শেখ মনজুরুল হক রাহাদ জামায়াতে ইসলামী বাংলাদেশের মনোনীত প্রার্থী হিসেবে 
+             অধ্যক্ষ মাওলানা শাহাদাতুজ্জামান জামায়াতে ইসলামী বাংলাদেশের মনোনীত প্রার্থী হিসেবে 
               বগুড়া-২ (সদর ও কচুয়া) আসনে ১৩তম জাতীয় সংসদ নির্বাচনে প্রতিদ্বন্দ্বিতা করছেন। 
               তিনি দলের তরুণ প্রজন্মের নেতৃত্বের অংশ এবং একটি দুর্নীতিমুক্ত, সমৃদ্ধ ও 
               ন্যায়বিচারের বাংলাদেশ গড়ার স্বপ্ন নিয়ে কাজ করছেন।

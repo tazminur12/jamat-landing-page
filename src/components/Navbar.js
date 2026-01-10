@@ -31,7 +31,7 @@ export default function Navbar() {
             />
           </div>
           <div className="candidate-info">
-            <h1 className="candidate-name">শেখ মনজুরুল হক রাহাদ</h1>
+            <h1 className="candidate-name">অধ্যক্ষ মাওলানা শাহাদাতুজ্জামান</h1>
             <p className="candidate-position">বগুড়া-২ আসনের প্রার্থী</p>
           </div>
         </div>
